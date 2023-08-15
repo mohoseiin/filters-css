@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+.base{
+    width: 100%;
+    filter: blinds(10%);
+}
+.box-right{
+    background-color: #F4F5F6;
+}
+.form-check{
+    background-color: #D0D4DC;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+
+}
