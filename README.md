@@ -1,3 +1,5 @@
+![Example Image](assets/img/readme.png)
+
 # Image Filters Project
 
 This project is a simple tool for applying various filters to images using CSS and JavaScript. Users can click on buttons to apply filters such as `blur`, `grayscale`, and more to an image.
