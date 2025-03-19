@@ -1,17 +1,18 @@
 body{
     margin: 0;
+    background-color: #021526 !important;
+
 }
 .base{
     width: 100%;
     filter: blinds(10%);
 }
 .box-right{
-    background-color: #F4F5F6;
+    background-color: #6EACDA;
 }
 .form-check{
-    background-color: #D0D4DC;
+    background-color: #E2E2B6;
     padding: 10px;
     border-radius: 10px;
     margin: 20px;
-
 }
